@@ -72,8 +72,24 @@
                     </div>
                     <h3 class="about-nama">Seafood Bancakan Komplit</h3>
                     <span class="about-harga">Rp 35.000</span>
-                </div>
+                </div>                
 
+                <div class="about-item">
+                    <div class="about-img">
+                        <img src="{{ asset('images/Calamary.jpg') }}" alt="">
+                    </div>
+                    <h3 class="about-nama">Calamary (Cumi Crispy)</h3>
+                    <span class="about-harga">Rp 25.000</span>
+                </div>
+                
+                <div class="about-item">
+                    <div class="about-img">
+                        <img src="{{ asset('images/udangcr.jpg') }}" alt="">
+                    </div>
+                    <h3 class="about-nama">Udang Crispy</h3>
+                    <span class="about-harga">Rp 25.000</span>
+                </div>
+                
                 <div class="about-item">
                     <div class="about-img">
                         <img src="{{ asset('images/kerangSimping.jpg') }}" alt="">
@@ -95,8 +111,50 @@
                         <img src="{{ asset('images/kerangIjo.jpg') }}" alt="">
                     </div>
                     <h3 class="about-nama">Kerang Ijo</h3>
-                    <span class="about-harga">Rp 35.000</span>
+                    <span class="about-nama">Additional Saos:</span>
+                    <span class="about-nama">- Saos Padang</span>
+                    <span class="about-nama">- Saos Asam Manis</span>
+                    <span class="about-nama">- Saos Tiram</span>
+                    <span class="about-harga">Rp 20.000</span>
                 </div>
+
+                
+                <div class="about-item">
+                    <div class="about-img">
+                        <img src="{{ asset('images/Udang.jpg') }}" alt="">
+                    </div>
+                    <h3 class="about-nama">Udang</h3>
+                    <span class="about-nama">Additional Saos:</span>
+                    <span class="about-nama">- Saos Padang</span>
+                    <span class="about-nama">- Saos Mentega</span>
+                    <span class="about-nama">- Saos Tiram</span>
+                    <span class="about-harga">Rp 25.000</span>
+                </div>
+                
+                <div class="about-item">
+                    <div class="about-img">
+                        <img src="{{ asset('images/cumi.jpg') }}" alt="">
+                    </div>
+                    <h3 class="about-nama">Cumi</h3>
+                    <span class="about-nama">Additional Saos:</span>
+                    <span class="about-nama">- Saos Padang</span>
+                    <span class="about-nama">- Saos Mentega</span>
+                    <span class="about-nama">- Saos Tiram</span>
+                    <span class="about-harga">Rp 25.000</span>
+                </div>  
+
+                <div class="about-item">
+                    <div class="about-img">
+                        <img src="{{ asset('images/Kepiting.jpg') }}" alt="">
+                    </div>
+                    <h3 class="about-nama">Kepiting</h3>
+                    <span class="about-nama">Additional Saos:</span>
+                    <span class="about-nama">- Saos Padang</span>
+                    <span class="about-nama">- Saos Asam Manis</span>
+                    <span class="about-nama">- Saos Tiram</span>
+                    <span class="about-harga">Rp 25.000</span>
+                </div>
+                
             </div>
         </section>
 
