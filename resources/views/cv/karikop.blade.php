@@ -112,9 +112,7 @@
                     </div>
                     <h3 class="about-nama">Kerang Ijo</h3>
                     <span class="about-nama">Additional Saos:</span>
-                    <span class="about-nama">- Saos Padang</span>
-                    <span class="about-nama">- Saos Asam Manis</span>
-                    <span class="about-nama">- Saos Tiram</span>
+                    <p class="about-nama">Saos Padang | Saos Asam Manis | Saos Tiram</p>
                     <span class="about-harga">Rp 20.000</span>
                 </div>
 
