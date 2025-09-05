@@ -123,9 +123,7 @@
                     </div>
                     <h3 class="about-nama">Udang</h3>
                     <span class="about-nama">Additional Saos:</span>
-                    <span class="about-nama">- Saos Padang</span>
-                    <span class="about-nama">- Saos Mentega</span>
-                    <span class="about-nama">- Saos Tiram</span>
+                    <p class="about-nama">Saos Padang | Saos Mentega | Saos Tiram</p>
                     <span class="about-harga">Rp 25.000</span>
                 </div>
                 
@@ -135,9 +133,7 @@
                     </div>
                     <h3 class="about-nama">Cumi</h3>
                     <span class="about-nama">Additional Saos:</span>
-                    <span class="about-nama">- Saos Padang</span>
-                    <span class="about-nama">- Saos Mentega</span>
-                    <span class="about-nama">- Saos Tiram</span>
+                    <p class="about-nama">Saos Padang | Saos Mentega | Saos Tiram</p>
                     <span class="about-harga">Rp 25.000</span>
                 </div>  
 
@@ -147,9 +143,7 @@
                     </div>
                     <h3 class="about-nama">Kepiting</h3>
                     <span class="about-nama">Additional Saos:</span>
-                    <span class="about-nama">- Saos Padang</span>
-                    <span class="about-nama">- Saos Asam Manis</span>
-                    <span class="about-nama">- Saos Tiram</span>
+                    <p class="about-nama">Saos Padang | Saos Asam Manis | Saos Tiram</p>
                     <span class="about-harga">Rp 25.000</span>
                 </div>
                 
