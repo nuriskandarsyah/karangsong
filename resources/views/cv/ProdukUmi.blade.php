@@ -63,7 +63,7 @@
                         <img src="{{ asset('images/rengginang.png') }}" alt="">
                     </div>
                     <h3 class="about-nama">Rengginang</h3>
-                    <span class="about-harga">Rp 25.000</span>
+                    <span class="about-harga">Rp 2.500</span>
                 </div>
 
                 <div class="about-item">
@@ -71,7 +71,7 @@
                         <img src="{{ asset('images/krupuk.jpg') }}" alt="">
                     </div>
                     <h3 class="about-nama">Kerupuk</h3>
-                    <span class="about-harga">Rp 15.000</span>
+                    <span class="about-harga">Rp 10.000</span>
                 </div>
             </div>
         </section>
